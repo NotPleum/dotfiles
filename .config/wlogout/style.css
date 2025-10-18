@@ -1,0 +1,57 @@
+@import url("colors.css");
+
+/* reset */
+* { background-image: none; box-shadow: none; }
+
+window { background-color: alpha(@background, 0.60); }
+
+button {
+  border-radius: 18px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: alpha(@color6, 0.75);
+  background-color: alpha(@background, 0.40);
+  color: @foreground;
+
+  text-decoration-color: @foreground;
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 25%;
+
+  margin: 15px;
+  padding: 20px;
+
+  font-family: "JetBrainsMono Nerd Font", monospace;
+  font-size: 16px;
+
+  transition: 120ms ease-in-out;     /* valid */
+}
+
+button:focus,
+button:active,
+button:hover {
+  background-color: @color6;
+  color: @background;
+  outline-style: none;
+
+  /* GTK-friendly “pop” without transforms */
+  box-shadow: 0 0 0 4px alpha(@color6, 0.35);
+}
+
+/* optional per-button accents */
+#lock      { border-color: alpha(@color2, 0.85); }
+#logout    { border-color: alpha(@color5, 0.85); }
+#suspend   { border-color: alpha(@color3, 0.85); }
+#hibernate { border-color: alpha(@color4, 0.85); }
+#shutdown  { border-color: alpha(@color1, 0.85); }
+#reboot    { border-color: alpha(@color1, 0.85); }
+
+/* icon mappings (keep as before) */
+#lock      { background-image: image(url("/usr/share/wlogout/icons/lock.png"), url("/usr/local/share/wlogout/icons/lock.png")); }
+#logout    { background-image: image(url("/usr/share/wlogout/icons/logout.png"), url("/usr/local/share/wlogout/icons/logout.png")); }
+#suspend   { background-image: image(url("/usr/share/wlogout/icons/suspend.png"), url("/usr/local/share/wlogout/icons/suspend.png")); }
+#hibernate { background-image: image(url("/usr/share/wlogout/icons/hibernate.png"), url("/usr/local/share/wlogout/icons/hibernate.png")); }
+#shutdown  { background-image: image(url("/usr/share/wlogout/icons/shutdown.png"), url("/usr/local/share/wlogout/icons/shutdown.png")); }
+#reboot    { background-image: image(url("/usr/share/wlogout/icons/reboot.png"), url("/usr/local/share/wlogout/icons/reboot.png")); }
+

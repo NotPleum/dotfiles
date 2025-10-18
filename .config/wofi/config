@@ -1,0 +1,17 @@
+# ~/.config/wofi/config
+prompt=Search…
+show=drun
+columns=1
+lines=10
+allow_images=true
+hide_scroll=true
+term=kitty
+insensitive=true
+width=50%
+height=50%
+location=center
+orientation=vertical
+allow_markup=true
+no_actions=false
+image_size=32
+

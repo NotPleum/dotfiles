@@ -1,0 +1,19 @@
+# caches & generated stuff
+**/.cache/
+**/logs/
+**/wal/
+**/sessions/
+**/*.swp
+**/*.bak
+
+# pywal generated
+**/colors-wal.vim
+**/colors-waybar.css
+**/colors.json
+**/sequences
+
+# auth/secrets if any (uncomment if present)
+# **/auth.json
+# **/tokens.json
+# **/private_keys/
+

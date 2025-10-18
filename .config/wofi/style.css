@@ -1,0 +1,40 @@
+/* ~/.config/wofi/style.css  */
+
+@import url("file:///home/eris/.cache/wal/colors-waybar.css");
+
+window {
+    font-family: "JetBrainsMono Nerd Font", monospace;
+    background-color: rgba(0, 0, 0, 0.6);
+    border: 2px solid @color6;
+    border-radius: 16px;
+}
+
+#input {
+    margin: 10px;
+    padding: 6px;
+    border: 1px solid @color6;
+    border-radius: 8px;
+    background-color: @background;
+    color: @foreground;
+}
+
+#inner-box {
+    margin: 6px;
+    padding: 4px;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+#entry {
+    padding: 6px 8px;
+    border-radius: 8px;
+}
+
+#entry:selected {
+    background-color: @color6;
+    color: @background;
+}
+
+#scroll {
+    margin: 6px;
+}
+

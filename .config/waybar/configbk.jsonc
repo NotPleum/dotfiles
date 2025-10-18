@@ -1,0 +1,46 @@
+{
+  "layer": "top",
+  "position": "top",
+  "spacing": 6,                     // small gaps between modules (CSS also adds margins)
+  "fixed-center": true,
+
+  "modules-left": ["hyprland/workspaces"],
+  "modules-center": [],
+  "modules-right": ["tray", "network", "pulseaudio", "battery", "clock", "custom/power"],
+
+  "tray": {
+    "icon-size": 16,
+    "spacing": 6
+  },
+
+  "network": {
+    "format": "{essid}",
+    "format-disconnected": "disconnected",
+    "on-click": "nm-connection-editor"
+  },
+
+  "pulseaudio": {
+    "format": "{volume}%",
+    "format-muted": "muted",
+    "on-click": "pavucontrol",
+    "scroll-step": 3
+  },
+
+  "battery": {
+    "format": "{capacity}%",
+    "format-charging": "{capacity}% +",
+    "interval": 10
+  },
+
+  "clock": {
+    "format": "{:%a %d %b  %I:%M %p}",
+    "tooltip-format": "{:%A, %d %B %Y}"
+  },
+
+  "custom/power": {
+    "format": "⏻",
+    "tooltip": false,
+    "on-click": "wlogout -p layer-shell"
+  }
+}
+
