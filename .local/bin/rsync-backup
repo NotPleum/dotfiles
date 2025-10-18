@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+set -euo pipefail
+DEST="${1:-$HOME/backups}"
+mkdir -p "$DEST"/{wallpapers,fonts}
+rsync -avh --delete ~/Pictures/wallpapers/ "$DEST/wallpapers/"
+echo "✅ Media backed up to $DEST"
+

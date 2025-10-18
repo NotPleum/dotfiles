@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "$0")/.."
+
+# Pull latest (in case you edited on another machine)
+git pull --rebase --autostash || true
+
+# Resync selected folders from $HOME into the repo
+rsync -a --mkpath \
+  ~/.config/hypr ~/.config/waybar ~/.config/wofi ~/.config/mako \
+  ~/.config/kitty ~/.config/wlogout \
+  ~/.config/fastfetch ~/.config/qt5ct ~/.config/qt6ct \
+  ~/.config/gtk-3.0 ~/.config/gtk-4.0 \
+  ./.config/
+
+rsync -a ~/.local/bin ./.local/
+cp -f ~/.zshrc ~/.profile ./ 2>/dev/null || true
+
+# Commit + push
+git add -A
+git status
+msg="${1:-chore: update dotfiles}"
+git commit -m "$msg" || echo "Nothing to commit."
+git push
+echo "✅ Dotfiles saved."
+
