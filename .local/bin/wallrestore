@@ -11,6 +11,7 @@ ln -sf "$lastwall" ~/.cache/wal/current_wallpaper
 swww img "$lastwall" --transition-type any
 wal -R
 pywalfox update
+walcord
 ~/.local/bin/wal-mako
 pkill -SIGUSR2 waybar || true
 
