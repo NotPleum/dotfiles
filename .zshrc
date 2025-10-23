@@ -122,3 +122,5 @@ fastfetch
 alias ls='lsd'
 alias cat='bat --style=plain'
 alias cd='z'
+alias vim='nvim'
+alias blue='bluetuith'

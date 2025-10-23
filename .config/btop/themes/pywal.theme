@@ -1,0 +1,7 @@
+# Pywal-based theme
+theme[main_bg]=$(cat ~/.cache/wal/colors.json | jq -r '.colors.color0')
+theme[main_fg]=$(cat ~/.cache/wal/colors.json | jq -r '.colors.color15')
+theme[title_bg]=$(cat ~/.cache/wal/colors.json | jq -r '.colors.color1')
+theme[title_fg]=$(cat ~/.cache/wal/colors.json | jq -r '.colors.color15')
+theme[hi_fg]=$(cat ~/.cache/wal/colors.json | jq -r '.colors.color2')
+
