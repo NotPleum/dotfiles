@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-set -e
-export WINEPREFIX="$HOME/.wine-line"
-exec wine start /unix "$WINEPREFIX/drive_c/users/eris/AppData/Local/LINE/bin/current/LINE.exe"
-
