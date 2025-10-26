@@ -8,6 +8,7 @@
   ],
   "modules-center": [],
   "modules-right": [
+    "mpris",
     "tray",
     "network",
     "pulseaudio",
@@ -15,6 +16,19 @@
     "clock",
     "custom/power"
   ],
+  "mpris": {
+    "format": "{player_icon} {title}",
+    "format-paused": " {title}",
+    "format-playing": " {title}",
+    "interval": 2,
+    "on-click": "playerctl play-pause",
+    "on-scroll-up": "playerctl next",
+    "on-scroll-down": "playerctl previous",
+    "tooltip-format": "{player} — {artist} — {album}",
+    "ignored-players": [
+      "firefox-esr"
+    ]
+  },
   "tray": {
     "icon-size": 16,
     "spacing": 6

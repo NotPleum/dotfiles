@@ -29,6 +29,15 @@ window#waybar {
   margin: 2px 4px;
 }
 
+#mpris {
+  padding: 4px 10px;
+  border: 1px solid alpha(@foreground, 0.10);
+  border-radius: 999px;
+  background: alpha(@color0, 0.35);
+  font-weight: 500;
+}
+
+
 /* Hover feedback */
 #network:hover,
 #pulseaudio:hover,
@@ -89,4 +98,3 @@ window#waybar {
 #workspaces button label {
   padding: 0;  /* keeps text centered nicely inside the pill */
 }
-
