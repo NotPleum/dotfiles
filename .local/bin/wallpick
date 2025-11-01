@@ -9,7 +9,7 @@ effects=("grow" "wave" "any" "fade")
 random_index=$((RANDOM % ${#effects[@]}))
 
 # open nsxiv in thumbnail mode (-t) and print selected file(s) (-o)
-img="$(nsxiv -to "$WALL_DIR" | head -n 1)"
+img="$(nsxiv -tbog 960x720 "$WALL_DIR" | head -n 1)"
 [ -z "$img" ] && exit 0
 
 # ensure swww-daemon is running
