@@ -27,8 +27,10 @@ pkill hyprlock 2>/dev/null || true
 ~/.local/bin/wal-mako
 ln -sf "$img" ~/.cache/wal/current_wallpaper
 pywalfox update
-# refresh Waybar to update colors
-#pkill -SIGUSR2 waybar 2>/dev/null || true
+if ! pgrep -x "waybar" >/dev/null; then
+  waybar &
+  else:
+fi
 #~/.local/bin/update-vscodium-theme.sh &
 walcord
 
