@@ -14,6 +14,7 @@ rsync -a --mkpath \
   ./.config/
 
 rsync -a ~/.local/bin ./.local/
+rsync -a ~/.local/share/applications ./.local/share
 cp -f ~/.zshrc ~/.profile ./ 2>/dev/null || true
 
 # Commit + push

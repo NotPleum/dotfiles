@@ -22,7 +22,11 @@ pgrep -x swww-daemon >/dev/null 2>&1 || {
 swww img -t "${effects[random_index]}" "$img" --transition-duration 0.6 --transition-fps 60
 
 # apply Pywal theme
-wal -n -i "$img"
+if [[ "$(basename "$img")" == "girls_band_cry2.png" ]]; then
+  wal -n -i "$img" --backend haishoku
+else
+  wal -n -i "$img"
+fi
 pkill hyprlock 2>/dev/null || true
 ~/.local/bin/wal-mako
 ln -sf "$img" ~/.cache/wal/current_wallpaper

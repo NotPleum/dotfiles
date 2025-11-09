@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Firefox Private
+Comment=Launch Firefox private window
+Exec=firefox --private-window
+Terminal=false
+Icon=/home/eris/.icons/private-firefox.png
+Type=Application

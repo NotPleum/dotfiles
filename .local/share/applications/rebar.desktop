@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=rebar
+Comment=run waybar if waybar is not running
+Exec=/home/eris/.local/bin/rebar.sh
+Terminal=False
+Icon=/home/eris/.icons/rebars.png
+Type=Application
+Categories=Application;

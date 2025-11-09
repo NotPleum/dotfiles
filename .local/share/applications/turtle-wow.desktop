@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Turtle WoW
+Comment=Turtle World of Warcraft
+Exec=/home/eris/Games/TurtleWoW/TurtleWoW.AppImage
+Icon=/home/eris/.icons/turtle-wow.png
+Terminal=false
+Type=Application
+Categories=Games;
