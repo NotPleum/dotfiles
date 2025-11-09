@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=GitHub
+Comment=Open GitHub.com in new window
+Exec=firefox --new-window https://github.com
+Terminal=false
+Icon=/home/eris/.icons/github.png
+Type=Application
