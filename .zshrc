@@ -1,5 +1,5 @@
 # If you come from bash you might have to change your $PATH.
-# export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
+export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
 
 # Path to your Oh My Zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
@@ -124,3 +124,5 @@ alias cat='bat --style=plain'
 alias cd='z'
 alias vim='nvim'
 alias blue='bluetuith'
+alias kpass='pass -c kmitl/pass'
+alias kmail='pass -c kmitl/gmail'
