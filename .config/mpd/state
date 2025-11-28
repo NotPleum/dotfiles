@@ -1,6 +1,8 @@
 sw_volume: 65
 audio_device_state:1:PipeWire Sound Server
-state: stop
+state: play
+current: 6
+time: 120.224
 random: 0
 repeat: 0
 single: 0
@@ -10,20 +12,17 @@ mixrampdb: 0
 mixrampdelay: -1
 lastloadedplaylist: 
 playlist_begin
-0:BOCCHI THE ROCK! - Kessoku Band Song Album [FLAC]/01. seisyun complex.flac
-1:BOCCHI THE ROCK! - Kessoku Band Song Album [FLAC]/02. hitoribocchi tokyo.flac
-2:BOCCHI THE ROCK! - Kessoku Band Song Album [FLAC]/03. Distortion!!.flac
-3:BOCCHI THE ROCK! - Kessoku Band Song Album [FLAC]/04. Secret Base.flac
-4:BOCCHI THE ROCK! - Kessoku Band Song Album [FLAC]/05. Guitar, Loneliness and Blue Planet.flac
-5:BOCCHI THE ROCK! - Kessoku Band Song Album [FLAC]/06. I can't sing a love song.flac
-6:BOCCHI THE ROCK! - Kessoku Band Song Album [FLAC]/07. That band.flac
-7:BOCCHI THE ROCK! - Kessoku Band Song Album [FLAC]/08. Karakara.flac
-8:BOCCHI THE ROCK! - Kessoku Band Song Album [FLAC]/09. The Little Sea.flac
-9:BOCCHI THE ROCK! - Kessoku Band Song Album [FLAC]/10. What is wrong with.flac
-10:BOCCHI THE ROCK! - Kessoku Band Song Album [FLAC]/11. Never forget.flac
-11:BOCCHI THE ROCK! - Kessoku Band Song Album [FLAC]/12. If I could be a constellation.flac
-12:BOCCHI THE ROCK! - Kessoku Band Song Album [FLAC]/13. Flashbacker.flac
-13:BOCCHI THE ROCK! - Kessoku Band Song Album [FLAC]/14. Rockn' Roll, Morning Light Falls on You.flac
-14:BOCCHI THE ROCK! - Kessoku Band Song Album [FLAC]/01_01_ワタシダケユウレイ.flac
-15:BOCCHI THE ROCK! - Kessoku Band Song Album [FLAC]/01_02_ワタシダケユウレイ-instrumental-.flac
+0:Hololive/ayame/Goodbye Sengen(cover).opus
+1:Hololive/ayame/KING(cover).opus
+2:Hololive/ayame/かわ世.opus
+3:Hololive/ayame/可愛くてごめん(cover).opus
+4:Hololive/kobo/HELP!!.opus
+5:Hololive/kobo/HELP!!(live-with-Natori).opus
+6:Hololive/kobo/HELP!!(natori ver.).opus
+7:Hololive/kobo/Overdose(cover).opus
+8:Hololive/aqua/未だ、青い.opus
+9:Hololive/suisei/ソワレ.opus
+10:Hololive/suisei/ビビデバ.opus
+11:Hololive/suisei/フォニイ.opus
+12:Hololive/suisei/ムーンライト.opus
 playlist_end
