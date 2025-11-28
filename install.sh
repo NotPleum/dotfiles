@@ -15,6 +15,11 @@ rsync -avh --mkpath .config/gtk-3.0 ~/.config/
 rsync -avh --mkpath .config/gtk-4.0 ~/.config/
 rsync -avh --mkpath .config/qt5ct ~/.config/
 rsync -avh --mkpath .config/qt6ct ~/.config/
+rsync -avh --mkpath .config/nvim ~/.config/
+rsync -avh --mkpath .config/btop ~/.config/
+rsync -avh --mkpath .config/mpv ~/.config/
+rsync -avh --mkpath .config/mpd ~/.config/
+rsync -avh --mkpath .config/rmpc ~/.config/
 
 # === shell ===
 cp -f .zshrc ~/
@@ -22,6 +27,4 @@ cp -f .zshrc ~/
 # === local bin scripts ===
 rsync -avh --mkpath .local/bin ~/.local/
 
-
 echo "✅ Dotfiles restored successfully!"
-
