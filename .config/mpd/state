@@ -1,28 +1,32 @@
-sw_volume: 65
+sw_volume: 75
 audio_device_state:1:PipeWire Sound Server
-state: play
-current: 6
-time: 120.224
+state: pause
+current: 0
+time: 2.787
 random: 0
 repeat: 0
 single: 0
-consume: 0
+consume: 1
 crossfade: 0
 mixrampdb: 0
 mixrampdelay: -1
 lastloadedplaylist: 
 playlist_begin
-0:Hololive/ayame/Goodbye Sengen(cover).opus
-1:Hololive/ayame/KING(cover).opus
-2:Hololive/ayame/かわ世.opus
-3:Hololive/ayame/可愛くてごめん(cover).opus
-4:Hololive/kobo/HELP!!.opus
-5:Hololive/kobo/HELP!!(live-with-Natori).opus
-6:Hololive/kobo/HELP!!(natori ver.).opus
-7:Hololive/kobo/Overdose(cover).opus
-8:Hololive/aqua/未だ、青い.opus
-9:Hololive/suisei/ソワレ.opus
-10:Hololive/suisei/ビビデバ.opus
-11:Hololive/suisei/フォニイ.opus
-12:Hololive/suisei/ムーンライト.opus
+0:Togenashi Togeari/Kobiyubi Tatemasenka/01.碧いif (Aoi if).flac
+1:Togenashi Togeari/Kobiyubi Tatemasenka/02.無知のち私 (Muchi no chi Watashi).flac
+2:Togenashi Togeari/Kobiyubi Tatemasenka/03.渇く、憂う (Kawaku, Ureu).flac
+3:Togenashi Togeari/Kobiyubi Tatemasenka/04.吹き消した灯火 (Fukikeshita Tomoshibi).flac
+4:Togenashi Togeari/Kobiyubi Tatemasenka/05.生きて生きてゆく (Ikite Ikite Yuku).flac
+5:Togenashi Togeari/Kobiyubi Tatemasenka/06.臆病な白夜 (Okubyō na Byakuya).flac
+6:Togenashi Togeari/Kobiyubi Tatemasenka/07.最期の禱り (Saigo no Inori).flac
+7:Togenashi Togeari/Togeari/01 名もなき何もかも ／ Namonaki Nanimokamo.flac
+8:Togenashi Togeari/Togeari/02 偽りの理 ／ Itsuwari no kotowari.flac
+9:Togenashi Togeari/Togeari/03 気鬱、白濁す ／ Kiutsu, hakudakusu.flac
+10:Togenashi Togeari/Togeari/04 理想的パラドクスとは ／ Risōteki paradokusu to wa.flac
+11:Togenashi Togeari/Togeari/05 爆ぜて咲く ／ Hazete saku.flac
+12:Togenashi Togeari/Togeari/06 黎明を穿つ ／ Reimei wo ugatsu.flac
+13:Togenashi Togeari/Togeari/07 極私的極彩色アンサー ／ Gokushiteki Gokusaishoku Ansā.flac
+14:Togenashi Togeari/Togeari/08 傷つき傷つけ痛くて辛い ／ Kizutsuki Kizutsuke Itakute Tsurai.flac
+15:Togenashi Togeari/Togeari/09 運命に賭けたい論理 ／ Unmei ni Kaketai Ronri.flac
+16:Togenashi Togeari/Togeari/10 サヨナラサヨナラサヨナラ ／ Sayonara Sayonara Sayonara.flac
 playlist_end
