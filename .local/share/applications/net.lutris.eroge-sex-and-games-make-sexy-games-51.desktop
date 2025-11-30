@@ -1,0 +1,8 @@
+
+[Desktop Entry]
+Type=Application
+Name=Eroge! ~H mo Game mo Kaihatsu Zanmai~
+Icon=/home/eris/.icons/h-game.png
+Exec=env LUTRIS_SKIP_INIT=1 lutris lutris:rungameid/51
+Categories=Game
+TryExec=lutris
