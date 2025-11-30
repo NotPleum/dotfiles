@@ -76,7 +76,7 @@ source $ZSH/oh-my-zsh.sh
 # Plugins
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
+source /usr/share/zsh/plugins/zsh-autopair/autopair.zsh
 
 # Fuzzy finder
 [ -f /usr/share/fzf/key-bindings.zsh ] && source /usr/share/fzf/key-bindings.zsh
@@ -126,3 +126,4 @@ alias vim='nvim'
 alias blue='bluetuith'
 alias kpass='pass -c kmitl/pass'
 alias kmail='pass -c kmitl/gmail'
+alias mkdir='mkdir -p'

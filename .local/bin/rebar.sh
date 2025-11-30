@@ -2,5 +2,6 @@
 
 if ! pgrep -x "waybar" >/dev/null; then
   waybar &
-  else:
+elif pgrep -x "waybar" >/dev/null; then
+  pkill waybar && waybar &
 fi

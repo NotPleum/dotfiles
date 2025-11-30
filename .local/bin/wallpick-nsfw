@@ -1,0 +1,44 @@
+#!/bin/bash
+# nsxiv-based wallpaper picker with random swww transition + Pywal + Waybar reload
+
+# define wallpaper folder
+WALL_DIR="$HOME/Pictures/wallpapers-nsfw/"
+
+# random swww transition effects
+effects=("grow" "wave" "any" "fade")
+random_index=$((RANDOM % ${#effects[@]}))
+
+# open nsxiv in thumbnail mode (-t) and print selected file(s) (-o)
+img="$(nsxiv -tbog 960x720 "$WALL_DIR" | head -n 1)"
+[ -z "$img" ] && exit 0
+
+# ensure swww-daemon is running
+pgrep -x swww-daemon >/dev/null 2>&1 || {
+  swww-daemon &
+  sleep 0.3
+}
+
+# set wallpaper with random effect
+swww img -t "${effects[random_index]}" "$img" --transition-duration 0.6 --transition-fps 60
+
+# apply Pywal theme
+if [[ "$(basename "$img")" == "girls_band_cry2.png" ]]; then
+  wal -n -i "$img" --backend haishoku
+else
+  wal -n -i "$img"
+fi
+pkill hyprlock 2>/dev/null || true
+~/.local/bin/wal-mako
+ln -sf "$img" ~/.cache/wal/current_wallpaper
+pywalfox update
+if ! pgrep -x "waybar" >/dev/null; then
+  waybar &
+  else:
+fi
+#~/.local/bin/update-vscodium-theme.sh &
+walcord
+
+# save the last wallpaper path for restore
+echo "$img" >~/.cache/wal/last_wall
+
+notify-send "Wallpaper applied" "$(basename "$img")"

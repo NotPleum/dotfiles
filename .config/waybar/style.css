@@ -16,6 +16,7 @@ window#waybar {
 
 /* --- Pill modules (right side) --- */
 #tray,
+#cava,
 #network,
 #pulseaudio,
 #battery,
