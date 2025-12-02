@@ -1,6 +1,8 @@
 sw_volume: 100
 audio_device_state:1:PipeWire Sound Server
-state: stop
+state: pause
+current: 0
+time: 46.148
 random: 0
 repeat: 0
 single: 0
@@ -10,4 +12,17 @@ mixrampdb: 0
 mixrampdelay: -1
 lastloadedplaylist: 
 playlist_begin
+0:Black Sabbath - The Ultimate Collection/CD 1/03 Iron Man.flac
+1:Black Sabbath - The Ultimate Collection/CD 1/04 Black Sabbath.flac
+2:Black Sabbath - The Ultimate Collection/CD 1/05 Children of the Grave.flac
+3:Black Sabbath - The Ultimate Collection/CD 1/06 Fairies Wear Boots.flac
+4:Black Sabbath - The Ultimate Collection/CD 1/07 Changes.flac
+5:Black Sabbath - The Ultimate Collection/CD 1/08 Rat Salad.flac
+6:Black Sabbath - The Ultimate Collection/CD 1/09 Sweet Leaf.flac
+7:Black Sabbath - The Ultimate Collection/CD 1/10 War Pigs.flac
+8:Black Sabbath - The Ultimate Collection/CD 1/11 Sabbath Bloody Sabbath.flac
+9:Black Sabbath - The Ultimate Collection/CD 1/12 Hole in the Sky.flac
+10:Black Sabbath - The Ultimate Collection/CD 1/13 Symptom of the Universe.flac
+11:Black Sabbath - The Ultimate Collection/CD 1/14 Spiral Architect.flac
+12:Black Sabbath - The Ultimate Collection/CD 1/15 Rock ’n’ Roll Doctor.flac
 playlist_end
