@@ -31,11 +31,10 @@ pkill hyprlock 2>/dev/null || true
 ~/.local/bin/wal-mako
 ln -sf "$img" ~/.cache/wal/current_wallpaper
 pywalfox update
-if ! pgrep -x "waybar" >/dev/null; then
-  waybar &
-  else:
-fi
-#~/.local/bin/update-vscodium-theme.sh &
+#if ! pgrep -x "waybar" >/dev/null; then
+# waybar &
+# else:
+#fi
 walcord
 
 # save the last wallpaper path for restore
