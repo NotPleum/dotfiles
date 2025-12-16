@@ -73,10 +73,22 @@
     "on-click": "nm-connection-editor"
   },
   "pulseaudio": {
-    "format": "{volume}%",
-    "format-muted": "muted",
-    "on-click": "pavucontrol",
-    "scroll-step": 3
+    "format": "{icon} {volume}%",
+    "format-muted": "{icon} {volume}%",
+    "format-icons": {
+      "default": [
+        "󰕿",
+        "󰖀",
+        "󰕾"
+      ],
+      "default-muted": "󰝟",
+      "headphone": "󰋋",
+      "headphone-muted": "󰟎",
+      "headset": "󰋎",
+      "headset-muted": "󰋐"
+    },
+    "scroll-step": 3,
+    "on-click": "volumectl toggle-mute"
   },
   "battery": {
     "interval": 60,

@@ -91,7 +91,7 @@
     "on-click": "volumectl toggle-mute"
   },
   "battery": {
-    "interval": 60,
+    "interval": 5,
     "states": {
       "warning": 30,
       "critical": 15
@@ -113,7 +113,16 @@
   },
   "clock": {
     "format": "{:%a %d %b  %I:%M %p}",
-    "tooltip-format": "{:%A, %d %B %Y}"
+    "tooltip-format": "<span>{calendar}</span>",
+    "calendar": {
+      "mode": "month",
+      "format": {
+        "months": "<span color='#ff6699'><b>{}</b></span>",
+        "days": "<span color='#cdd6f4'><b>{}</b></span>",
+        "weekdays": "<span color='#7CD37C'><b>{}</b></span>",
+        "today": "<span color='#ffcc66'><b>{}</b></span>"
+      }
+    }
   },
   "custom/power": {
     "format": "⏻",
