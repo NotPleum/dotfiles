@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=YouTube
+Comment=Open YouTube in new window
+Exec=firefox --new-window https://www.youtube.com/
+Terminal=false
+Icon=/home/eris/.icons/youtube.png
+Type=Application
