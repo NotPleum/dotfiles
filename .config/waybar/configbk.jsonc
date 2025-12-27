@@ -4,7 +4,8 @@
   "spacing": 6, // small gaps between modules (CSS also adds margins)
   "fixed-center": true,
   "modules-left": [
-    "hyprland/workspaces"
+    "hyprland/workspaces",
+    "hyprland/window"
   ],
   "modules-center": [
     "clock"
@@ -18,22 +19,35 @@
     "battery",
     "custom/power"
   ],
+  "hyprland/window": {
+    "format": "{}",
+    "max-length": 25,
+    "separate-outputs": true,
+    "expand": false,
+    "offscreen-css": true,
+    "offscreen-css-text": "(inactive)",
+    "icon": true,
+    "rewrite": {
+      "(.*) - Mozilla Firefox": " $1",
+      "(.*) - zsh": "> [$1]"
+    }
+  },
   "cava": {
     // "cava_config": "$XDG_CONFIG_HOME/cava/cava.conf",
-    "framerate": 60,
+    "framerate": 30,
     "autosens": 1,
     "bars": 12,
     "lower_cutoff_freq": 50,
     "higher_cutoff_freq": 10000,
-    "hide_on_silence": false,
+    "hide_on_silence": true,
     // "format_silent": "quiet",
     "method": "pipewire",
     "source": "auto",
     "stereo": true,
     "reverse": false,
     "bar_delimiter": 0,
-    "monstercat": true,
-    "waves": true,
+    "monstercat": false,
+    "waves": false,
     "noise_reduction": 0.77,
     "input_delay": 2,
     "format-icons": [
@@ -51,10 +65,12 @@
     }
   },
   "mpris": {
+    "player": "playerctld",
     "format": "{player_icon} {title}",
     "format-paused": " {title}",
     "format-playing": " {title}",
     "interval": 2,
+    "expand": false,
     "on-click": "playerctl play-pause",
     "on-scroll-up": "playerctl next",
     "on-scroll-down": "playerctl previous",
@@ -63,9 +79,16 @@
       "firefox-esr"
     ]
   },
+  "hyprland/workspaces": {
+    "format": "{icon}",
+    "format-icons": {
+      "active": "",
+      "default": ""
+    }
+  },
   "tray": {
     "icon-size": 16,
-    "spacing": 6
+    "spacing": 5
   },
   "network": {
     "format": "{essid}",
@@ -113,7 +136,16 @@
   },
   "clock": {
     "format": "{:%a %d %b  %I:%M %p}",
-    "tooltip-format": "{:%A, %d %B %Y}"
+    "tooltip-format": "<span>{calendar}</span>",
+    "calendar": {
+      "mode": "month",
+      "format": {
+        "months": "<span color='#ff6699'><b>{}</b></span>",
+        "days": "<span color='#cdd6f4'><b>{}</b></span>",
+        "weekdays": "<span color='#7CD37C'><b>{}</b></span>",
+        "today": "<span color='#ffcc66'><b>{}</b></span>"
+      }
+    }
   },
   "custom/power": {
     "format": "⏻",

@@ -1,0 +1,8 @@
+
+[Desktop Entry]
+Type=Application
+Name=Super Mario 64
+Icon=/home/eris/.icons/sm64.png
+Exec=env LUTRIS_SKIP_INIT=1 lutris lutris:rungameid/53
+Categories=Game
+TryExec=lutris
