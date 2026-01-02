@@ -24,6 +24,8 @@ swww img -t "${effects[random_index]}" "$img" --transition-duration 0.6 --transi
 # apply Pywal theme
 if [[ "$(basename "$img")" == "girls_band_cry2.png" ]]; then
   wal -n -i "$img" --backend haishoku
+elif [[ "$(basename "$img")" == "umbrella-Suzuran.png" ]]; then
+  wal -n -i "$img" --backend haishoku
 else
   wal -n -i "$img"
 fi

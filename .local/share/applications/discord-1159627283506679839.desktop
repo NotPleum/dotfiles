@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Game 1159627283506679839
+Exec='/home/eris/Games/sm64coopdx_linux/sm64coopdx' %u
+Type=Application
+NoDisplay=true
+Categories=Discord;Games;
+MimeType=x-scheme-handler/discord-1159627283506679839;
