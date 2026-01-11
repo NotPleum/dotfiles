@@ -5,3 +5,4 @@ Exec=firefox --new-window chatgpt.com
 Terminal=false
 Icon=/home/eris/.icons/gpt.png
 Type=Application
+Categories=WebBrowser;

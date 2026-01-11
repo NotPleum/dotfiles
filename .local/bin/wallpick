@@ -26,6 +26,10 @@ if [[ "$(basename "$img")" == "girls_band_cry2.png" ]]; then
   wal -n -i "$img" --backend haishoku
 elif [[ "$(basename "$img")" == "umbrella-Suzuran.png" ]]; then
   wal -n -i "$img" --backend haishoku
+elif [[ "$(basename "$img")" == "totoro.png" ]]; then
+  wal -n -i "$img" --backend haishoku
+elif [[ "$(basename "$img")" == "kita.png" ]]; then
+  wal -n -i "$img" --backend haishoku
 else
   wal -n -i "$img"
 fi

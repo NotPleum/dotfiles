@@ -1,8 +1,8 @@
 [Desktop Entry]
 Name=Blue
 Comment=Bluetuith
-Exec=hyprctl dispatch exec "[size 650; float] kitty bluetuith"
+Exec=hyprctl dispatch exec "[center; size 685 613; float] kitty bluetuith"
 Terminal=True
 Type=Application
 Icon=/home/eris/.icons/bluetooth.png
-Categories=Appication;
+Categories=Network;

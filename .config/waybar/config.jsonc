@@ -36,6 +36,7 @@
     "format": "{player_icon} {title}",
     "format-paused": " {title}",
     "format-playing": " {title}",
+    "max-length": 30,
     "interval": 2,
     "expand": false,
     "on-click": "playerctl play-pause",
@@ -86,7 +87,9 @@
       "headset-muted": "󰋐"
     },
     "scroll-step": 3,
-    "on-click": "volumectl toggle-mute"
+    "on-click": "volumectl toggle-mute",
+    "on-scroll-up": "volumectl +5%",
+    "on-scroll-down": "volumectl -5%"
   },
   "battery": {
     "interval": 60,
@@ -96,7 +99,7 @@
     },
     "events": {
       "on-discharging-warning": "notify-send -u normal 'Low Battery'",
-      "on-discharging-critical": "notify-send -u critical 'Very Low Battery'",
+      "on-discharging-critical": "brightnessctl -s set 10% && notify-send -u critical 'Very Low Battery'",
       "on-charging-100": "notify-send -u normal 'Battery Full!!!'"
     },
     "format": "{capacity}% {icon}",

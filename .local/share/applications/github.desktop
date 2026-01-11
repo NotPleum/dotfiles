@@ -5,3 +5,4 @@ Exec=firefox --new-window https://github.com
 Terminal=false
 Icon=/home/eris/.icons/github.png
 Type=Application
+Categories=WebBrowser;

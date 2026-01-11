@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=rmpc
+Comment=rmpc media player
+Exec=hyprctl dispatch exec "kitty rmpc"
+Icon=/home/eris/.icons/rmpc.png
+Terminal=True
+Type=Application
+Categories=Audio;
