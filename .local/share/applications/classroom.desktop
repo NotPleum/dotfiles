@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Classroom
+Comment=Open Classroom in new window
+Exec=firefox --new-window https://classroom.google.com/u/1/
+Terminal=false
+Icon=/home/eris/.icons/classroom.png
+Type=Application
+Categories=WebBrowser;

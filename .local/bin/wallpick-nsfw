@@ -22,8 +22,8 @@ pgrep -x swww-daemon >/dev/null 2>&1 || {
 swww img -t "${effects[random_index]}" "$img" --transition-duration 0.6 --transition-fps 60
 
 # apply Pywal theme
-if [[ "$(basename "$img")" == "girls_band_cry2.png" ]]; then
-  wal -n -i "$img" --backend haishoku
+if [[ "$(basename "$img")" == "wallhaven-5gyye8_1920x1080.png" ]]; then
+  wal -n -i "$img" --backend colorthief
 else
   wal -n -i "$img"
 fi
@@ -40,4 +40,4 @@ walcord
 # save the last wallpaper path for restore
 echo "$img" >~/.cache/wal/last_wall
 
-notify-send "Wallpaper applied" "$(basename "$img")"
+notify-send --urgency=low "Wallpaper applied" "$(basename "$img")"

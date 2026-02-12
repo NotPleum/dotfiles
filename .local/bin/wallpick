@@ -13,7 +13,7 @@ img="$(nsxiv -tbog 960x720 "$WALL_DIR" | head -n 1)"
 [ -z "$img" ] && exit 0
 
 # ensure swww-daemon is running
-pgrep -x swww-daemon >/dev/null 2>&1 || {
+pgrep -x swww-daemonon >/dev/null 2>&1 || {
   swww-daemon &
   sleep 0.3
 }
@@ -46,4 +46,4 @@ walcord
 # save the last wallpaper path for restore
 echo "$img" >~/.cache/wal/last_wall
 
-notify-send "Wallpaper applied" "$(basename "$img")"
+notify-send --urgency=low "Wallpaper applied" "$(basename "$img")"

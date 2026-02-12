@@ -1,8 +1,6 @@
 sw_volume: 100
 audio_device_state:1:PipeWire Sound Server
-state: pause
-current: 0
-time: 154.663
+state: stop
 random: 0
 repeat: 0
 single: 0
@@ -12,12 +10,4 @@ mixrampdb: 0
 mixrampdelay: -1
 lastloadedplaylist: 
 playlist_begin
-0:Togenashi Togeari/Togeari/10 サヨナラサヨナラサヨナラ ／ Sayonara Sayonara Sayonara.flac
-1:Togenashi Togeari/Kobiyubi Tatemasenka/01.碧いif (Aoi if).flac
-2:Togenashi Togeari/Kobiyubi Tatemasenka/02.無知のち私 (Muchi no chi Watashi).flac
-3:Togenashi Togeari/Kobiyubi Tatemasenka/03.渇く、憂う (Kawaku, Ureu).flac
-4:Togenashi Togeari/Kobiyubi Tatemasenka/04.吹き消した灯火 (Fukikeshita Tomoshibi).flac
-5:Togenashi Togeari/Kobiyubi Tatemasenka/05.生きて生きてゆく (Ikite Ikite Yuku).flac
-6:Togenashi Togeari/Kobiyubi Tatemasenka/06.臆病な白夜 (Okubyō na Byakuya).flac
-7:Togenashi Togeari/Kobiyubi Tatemasenka/07.最期の禱り (Saigo no Inori).flac
 playlist_end

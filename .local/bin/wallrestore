@@ -14,4 +14,3 @@ pywalfox update
 walcord
 ~/.local/bin/wal-mako
 pkill -SIGUSR2 waybar || true
-

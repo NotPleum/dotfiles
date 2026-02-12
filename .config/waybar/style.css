@@ -21,6 +21,7 @@ window#waybar {
 #pulseaudio,
 #battery,
 #clock,
+#bluetooth,
 #custom-power {
   /* pill look */
   background: alpha(@color0, 0.35);        /* subtle chip bg using your palette */
