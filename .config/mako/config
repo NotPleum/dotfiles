@@ -7,6 +7,8 @@ margin=10,10,10,10
 padding=10
 border-size=2
 border-radius=10
+[app-name="Fcitx"]
+invisible=1
 
 background-color=#1b2341
 text-color=#c6c8cf
