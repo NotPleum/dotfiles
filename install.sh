@@ -20,7 +20,6 @@ rsync -avh --mkpath .config/btop ~/.config/
 rsync -avh --mkpath .config/mpv ~/.config/
 rsync -avh --mkpath .config/mpd ~/.config/
 rsync -avh --mkpath .config/rmpc ~/.config/
-rsync -avh --mkpath .config/noctalia ~/.config/
 
 # === shell ===
 cp -f .zshrc ~/
