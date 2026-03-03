@@ -27,4 +27,7 @@ cp -f .zshrc ~/
 # === local bin scripts ===
 rsync -avh --mkpath .local/bin ~/.local/
 
+# === cache ===
+rsync -avh --mkpath .cache/wal ~/.cache/
+
 echo "✅ Dotfiles restored successfully!"

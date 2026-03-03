@@ -10,6 +10,6 @@ border-radius=10
 [app-name="Fcitx"]
 invisible=1
 
-background-color=#1b2341
-text-color=#c6c8cf
-border-color=#ADC9ED
+background-color=#070711
+text-color=#c1c1c3
+border-color=#a985ad

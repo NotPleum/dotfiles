@@ -13,6 +13,8 @@ rsync -a --mkpath \
   ~/.config/gtk-3.0 ~/.config/gtk-4.0 ~/.config/mpd ~/.config/rmpc \
   ./.config/
 
+rsync -a --mkpath ~/.cache/wal ./.cache
+
 rsync -a ~/.local/bin ./.local/
 rsync -a ~/.local/share/applications ./.local/share
 rsync -a ~/.icons ./

@@ -120,7 +120,12 @@ export EDITOR='nvim'
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 (cat ~/.cache/wal/sequences &)
-fastfetch
+#fastfetch
+if [[ $TERM == linux ]]; then
+  fastfetch --logo arch3
+else
+  fastfetch
+fi
 alias ls='lsd'
 alias cat='bat --style=plain'
 alias cd='z'
