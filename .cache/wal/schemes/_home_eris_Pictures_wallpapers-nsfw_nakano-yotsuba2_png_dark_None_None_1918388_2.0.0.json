@@ -1,0 +1,28 @@
+{
+    "checksum": "bfc33a54e67f05c69eb6237c0805c657",
+    "wallpaper": "/home/eris/Pictures/wallpapers-nsfw/nakano-yotsuba2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#312b2b",
+        "foreground": "#cbcaca",
+        "cursor": "#cbcaca"
+    },
+    "colors": {
+        "color0": "#312b2b",
+        "color1": "#ECAA9C",
+        "color2": "#DAC4B5",
+        "color3": "#F4C7B9",
+        "color4": "#CED3CF",
+        "color5": "#F8D6CB",
+        "color6": "#FDE5D9",
+        "color7": "#cbcaca",
+        "color8": "#826b6b",
+        "color9": "#ECAA9C",
+        "color10": "#DAC4B5",
+        "color11": "#F4C7B9",
+        "color12": "#CED3CF",
+        "color13": "#F8D6CB",
+        "color14": "#FDE5D9",
+        "color15": "#cbcaca"
+    }
+}

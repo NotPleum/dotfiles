@@ -1,0 +1,28 @@
+{
+    "checksum": "d68757505fa68be42b5d8872d08a08bf",
+    "wallpaper": "/home/eris/Pictures/wallpapers/nakano-nino5.png",
+    "alpha": "100",
+    "special": {
+        "background": "#141215",
+        "foreground": "#c4c3c4",
+        "cursor": "#c4c3c4"
+    },
+    "colors": {
+        "color0": "#141215",
+        "color1": "#778665",
+        "color2": "#BCAC6E",
+        "color3": "#617492",
+        "color4": "#967093",
+        "color5": "#A9959A",
+        "color6": "#D9ABA7",
+        "color7": "#c4c3c4",
+        "color8": "#6f5a6f",
+        "color9": "#778665",
+        "color10": "#BCAC6E",
+        "color11": "#617492",
+        "color12": "#967093",
+        "color13": "#A9959A",
+        "color14": "#D9ABA7",
+        "color15": "#c4c3c4"
+    }
+}

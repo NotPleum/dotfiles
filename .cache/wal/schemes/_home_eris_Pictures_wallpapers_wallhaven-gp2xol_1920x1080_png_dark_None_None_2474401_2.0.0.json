@@ -1,0 +1,28 @@
+{
+    "checksum": "40fe780519a58a133ed4b0f23438f656",
+    "wallpaper": "/home/eris/Pictures/wallpapers/wallhaven-gp2xol_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101017",
+        "foreground": "#c3c3c5",
+        "cursor": "#c3c3c5"
+    },
+    "colors": {
+        "color0": "#101017",
+        "color1": "#BE4E56",
+        "color2": "#915360",
+        "color3": "#646C8D",
+        "color4": "#908588",
+        "color5": "#A6999E",
+        "color6": "#DBACAC",
+        "color7": "#c3c3c5",
+        "color8": "#5b5b6f",
+        "color9": "#BE4E56",
+        "color10": "#915360",
+        "color11": "#646C8D",
+        "color12": "#908588",
+        "color13": "#A6999E",
+        "color14": "#DBACAC",
+        "color15": "#c3c3c5"
+    }
+}

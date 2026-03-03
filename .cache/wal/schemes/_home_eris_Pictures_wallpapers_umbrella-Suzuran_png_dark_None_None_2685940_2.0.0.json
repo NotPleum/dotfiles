@@ -1,0 +1,28 @@
+{
+    "checksum": "820529a447d22abfec42f272acae6e37",
+    "wallpaper": "/home/eris/Pictures/wallpapers/umbrella-Suzuran.png",
+    "alpha": "100",
+    "special": {
+        "background": "#844044",
+        "foreground": "#e0cfd0",
+        "cursor": "#e0cfd0"
+    },
+    "colors": {
+        "color0": "#844044",
+        "color1": "#AEBACD",
+        "color2": "#BAC2D2",
+        "color3": "#B8CCE9",
+        "color4": "#CCCAD1",
+        "color5": "#F0D8D2",
+        "color6": "#FDE5D8",
+        "color7": "#e0cfd0",
+        "color8": "#a28e8f",
+        "color9": "#AEBACD",
+        "color10": "#BAC2D2",
+        "color11": "#B8CCE9",
+        "color12": "#CCCAD1",
+        "color13": "#F0D8D2",
+        "color14": "#FDE5D8",
+        "color15": "#e0cfd0"
+    }
+}

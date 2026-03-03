@@ -1,0 +1,28 @@
+{
+    "checksum": "41e9b943028c6bcdce66b7c566c684b9",
+    "wallpaper": "/home/eris/Pictures/wallpapers/ayame-chill.png",
+    "alpha": "100",
+    "special": {
+        "background": "#302425",
+        "foreground": "#cbc8c8",
+        "cursor": "#cbc8c8"
+    },
+    "colors": {
+        "color0": "#302425",
+        "color1": "#75BDCE",
+        "color2": "#C2AAB2",
+        "color3": "#E1A4AC",
+        "color4": "#EECEA8",
+        "color5": "#9DDBDF",
+        "color6": "#DFD5DE",
+        "color7": "#cbc8c8",
+        "color8": "#7f686b",
+        "color9": "#75BDCE",
+        "color10": "#C2AAB2",
+        "color11": "#E1A4AC",
+        "color12": "#EECEA8",
+        "color13": "#9DDBDF",
+        "color14": "#DFD5DE",
+        "color15": "#cbc8c8"
+    }
+}

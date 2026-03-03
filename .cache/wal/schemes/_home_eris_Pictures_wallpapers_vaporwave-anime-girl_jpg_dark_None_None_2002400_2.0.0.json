@@ -1,0 +1,28 @@
+{
+    "checksum": "db474a981de862783cdf1f65dcf853cf",
+    "wallpaper": "/home/eris/Pictures/wallpapers/vaporwave-anime-girl.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#191c3c",
+        "foreground": "#c5c6ce",
+        "cursor": "#c5c6ce"
+    },
+    "colors": {
+        "color0": "#191c3c",
+        "color1": "#3E538F",
+        "color2": "#605D96",
+        "color3": "#9E5D94",
+        "color4": "#B04494",
+        "color5": "#E56A9A",
+        "color6": "#4EADC3",
+        "color7": "#c5c6ce",
+        "color8": "#686a80",
+        "color9": "#3E538F",
+        "color10": "#605D96",
+        "color11": "#9E5D94",
+        "color12": "#B04494",
+        "color13": "#E56A9A",
+        "color14": "#4EADC3",
+        "color15": "#c5c6ce"
+    }
+}

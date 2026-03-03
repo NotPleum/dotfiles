@@ -1,0 +1,28 @@
+{
+    "checksum": "50f4578d40655f8042f4beb15c3c55c3",
+    "wallpaper": "/home/eris/Pictures/wallpapers/wallhaven-wev7rp_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0d1e",
+        "foreground": "#c2c2c6",
+        "cursor": "#c2c2c6"
+    },
+    "colors": {
+        "color0": "#0d0d1e",
+        "color1": "#9C6364",
+        "color2": "#D65E68",
+        "color3": "#9D8086",
+        "color4": "#B2989C",
+        "color5": "#D8ABA4",
+        "color6": "#CEB6B5",
+        "color7": "#c2c2c6",
+        "color8": "#5c5c70",
+        "color9": "#9C6364",
+        "color10": "#D65E68",
+        "color11": "#9D8086",
+        "color12": "#B2989C",
+        "color13": "#D8ABA4",
+        "color14": "#CEB6B5",
+        "color15": "#c2c2c6"
+    }
+}

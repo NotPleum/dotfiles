@@ -1,0 +1,28 @@
+{
+    "checksum": "d558b9cda98b9dbdf8c923a39c6c3226",
+    "wallpaper": "/home/eris/Pictures/wallpapers/moonskull.png",
+    "alpha": "100",
+    "special": {
+        "background": "#080711",
+        "foreground": "#c1c1c3",
+        "cursor": "#c1c1c3"
+    },
+    "colors": {
+        "color0": "#080711",
+        "color1": "#1423DB",
+        "color2": "#1B5EE2",
+        "color3": "#BC5DBB",
+        "color4": "#21A1E3",
+        "color5": "#46B7C3",
+        "color6": "#B2ADB5",
+        "color7": "#c1c1c3",
+        "color8": "#59566a",
+        "color9": "#1423DB",
+        "color10": "#1B5EE2",
+        "color11": "#BC5DBB",
+        "color12": "#21A1E3",
+        "color13": "#46B7C3",
+        "color14": "#B2ADB5",
+        "color15": "#c1c1c3"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "6d89bd7a4040a57ac6761142622aa071",
+    "wallpaper": "/home/eris/Pictures/wallpapers/Wall261.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#130d1e",
+        "foreground": "#c4c2c6",
+        "cursor": "#c4c2c6"
+    },
+    "colors": {
+        "color0": "#130d1e",
+        "color1": "#6F5FCE",
+        "color2": "#CE4AB4",
+        "color3": "#9270DA",
+        "color4": "#DB9E83",
+        "color5": "#D1A1A9",
+        "color6": "#AB8FED",
+        "color7": "#c4c2c6",
+        "color8": "#635c70",
+        "color9": "#6F5FCE",
+        "color10": "#CE4AB4",
+        "color11": "#9270DA",
+        "color12": "#DB9E83",
+        "color13": "#D1A1A9",
+        "color14": "#AB8FED",
+        "color15": "#c4c2c6"
+    }
+}

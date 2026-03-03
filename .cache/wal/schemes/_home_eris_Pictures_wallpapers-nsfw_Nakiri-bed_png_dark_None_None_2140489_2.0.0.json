@@ -1,0 +1,28 @@
+{
+    "checksum": "49488bcdee4d0a08abbac3ec44bbc769",
+    "wallpaper": "/home/eris/Pictures/wallpapers-nsfw/Nakiri-bed.png",
+    "alpha": "100",
+    "special": {
+        "background": "#220f19",
+        "foreground": "#c7c3c5",
+        "cursor": "#c7c3c5"
+    },
+    "colors": {
+        "color0": "#220f19",
+        "color1": "#A8887C",
+        "color2": "#B09291",
+        "color3": "#AF9DA2",
+        "color4": "#CDA8A2",
+        "color5": "#DDC8B6",
+        "color6": "#C2B8C6",
+        "color7": "#c7c3c5",
+        "color8": "#735e68",
+        "color9": "#A8887C",
+        "color10": "#B09291",
+        "color11": "#AF9DA2",
+        "color12": "#CDA8A2",
+        "color13": "#DDC8B6",
+        "color14": "#C2B8C6",
+        "color15": "#c7c3c5"
+    }
+}

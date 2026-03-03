@@ -1,0 +1,28 @@
+{
+    "checksum": "1db0e59b47dfad640a3f6c06aa705f00",
+    "wallpaper": "/home/eris/Pictures/wallpapers/alya.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#1a1b27",
+        "foreground": "#c5c6c9",
+        "cursor": "#c5c6c9"
+    },
+    "colors": {
+        "color0": "#1a1b27",
+        "color1": "#877B93",
+        "color2": "#7B819B",
+        "color3": "#6787AD",
+        "color4": "#699FC7",
+        "color5": "#908EA4",
+        "color6": "#BCBAC8",
+        "color7": "#c5c6c9",
+        "color8": "#636379",
+        "color9": "#877B93",
+        "color10": "#7B819B",
+        "color11": "#6787AD",
+        "color12": "#699FC7",
+        "color13": "#908EA4",
+        "color14": "#BCBAC8",
+        "color15": "#c5c6c9"
+    }
+}

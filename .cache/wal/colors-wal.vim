@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/eris/Pictures/wallpapers/totoro.png"
+let background = "#070711"
+let foreground = "#c1c1c3"
+let cursor     = "#c1c1c3"
+
+" Colors
+let color0  = "#070711"
+let color1  = "#504364"
+let color2  = "#564769"
+let color3  = "#77628d"
+let color4  = "#977bb8"
+let color5  = "#a384c2"
+let color6  = "#a985ad"
+let color7  = "#c1c1c3"
+let color8  = "#56566a"
+let color9  = "#504364"
+let color10 = "#564769"
+let color11 = "#77628d"
+let color12 = "#977bb8"
+let color13 = "#a384c2"
+let color14 = "#a985ad"
+let color15 = "#c1c1c3"

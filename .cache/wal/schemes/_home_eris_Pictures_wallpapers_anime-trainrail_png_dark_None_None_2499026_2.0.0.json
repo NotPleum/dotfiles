@@ -1,0 +1,28 @@
+{
+    "checksum": "b6da1c7c377e295a82cc2a73f8d0e1e7",
+    "wallpaper": "/home/eris/Pictures/wallpapers/anime-trainrail.png",
+    "alpha": "100",
+    "special": {
+        "background": "#131722",
+        "foreground": "#c4c5c7",
+        "cursor": "#c4c5c7"
+    },
+    "colors": {
+        "color0": "#131722",
+        "color1": "#3185BB",
+        "color2": "#648FAF",
+        "color3": "#3397CB",
+        "color4": "#62AADB",
+        "color5": "#76C8ED",
+        "color6": "#9FACA6",
+        "color7": "#c4c5c7",
+        "color8": "#5f6574",
+        "color9": "#3185BB",
+        "color10": "#648FAF",
+        "color11": "#3397CB",
+        "color12": "#62AADB",
+        "color13": "#76C8ED",
+        "color14": "#9FACA6",
+        "color15": "#c4c5c7"
+    }
+}

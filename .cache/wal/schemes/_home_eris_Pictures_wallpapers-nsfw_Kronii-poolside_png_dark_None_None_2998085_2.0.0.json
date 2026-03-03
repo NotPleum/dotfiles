@@ -1,0 +1,28 @@
+{
+    "checksum": "2d1d8b90325a174563e1cf976805fff3",
+    "wallpaper": "/home/eris/Pictures/wallpapers-nsfw/Kronii-poolside.png",
+    "alpha": "100",
+    "special": {
+        "background": "#27212e",
+        "foreground": "#c9c7ca",
+        "cursor": "#c9c7ca"
+    },
+    "colors": {
+        "color0": "#27212e",
+        "color1": "#C0BFBA",
+        "color2": "#EAC7B8",
+        "color3": "#A4B1CA",
+        "color4": "#B0D4E4",
+        "color5": "#D1CFD1",
+        "color6": "#F1D8CD",
+        "color7": "#c9c7ca",
+        "color8": "#71677d",
+        "color9": "#C0BFBA",
+        "color10": "#EAC7B8",
+        "color11": "#A4B1CA",
+        "color12": "#B0D4E4",
+        "color13": "#D1CFD1",
+        "color14": "#F1D8CD",
+        "color15": "#c9c7ca"
+    }
+}

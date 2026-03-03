@@ -1,0 +1,28 @@
+{
+    "checksum": "18461433e823c351e18141482b57c0cc",
+    "wallpaper": "/home/eris/Pictures/wallpapers/anime-girl-hang-pink.png",
+    "alpha": "100",
+    "special": {
+        "background": "#13232e",
+        "foreground": "#c4c8ca",
+        "cursor": "#c4c8ca"
+    },
+    "colors": {
+        "color0": "#13232e",
+        "color1": "#E17A87",
+        "color2": "#B39DA3",
+        "color3": "#C38880",
+        "color4": "#FA8D92",
+        "color5": "#ECA39A",
+        "color6": "#FF93A0",
+        "color7": "#c4c8ca",
+        "color8": "#637079",
+        "color9": "#E17A87",
+        "color10": "#B39DA3",
+        "color11": "#C38880",
+        "color12": "#FA8D92",
+        "color13": "#ECA39A",
+        "color14": "#FF93A0",
+        "color15": "#c4c8ca"
+    }
+}

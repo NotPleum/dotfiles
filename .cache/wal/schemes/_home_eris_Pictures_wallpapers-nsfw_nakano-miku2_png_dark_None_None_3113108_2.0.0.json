@@ -1,0 +1,28 @@
+{
+    "checksum": "76d30ac56a16ead3f6190c69a38f99e3",
+    "wallpaper": "/home/eris/Pictures/wallpapers-nsfw/nakano-miku2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#240f14",
+        "foreground": "#c8c3c4",
+        "cursor": "#c8c3c4"
+    },
+    "colors": {
+        "color0": "#240f14",
+        "color1": "#3D379C",
+        "color2": "#6B6BA5",
+        "color3": "#AD6E8E",
+        "color4": "#7987BA",
+        "color5": "#DAA09B",
+        "color6": "#C5B5B4",
+        "color7": "#c8c3c4",
+        "color8": "#745e63",
+        "color9": "#3D379C",
+        "color10": "#6B6BA5",
+        "color11": "#AD6E8E",
+        "color12": "#7987BA",
+        "color13": "#DAA09B",
+        "color14": "#C5B5B4",
+        "color15": "#c8c3c4"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "351a5ac1ff65d5cb2995eeb20d31ca6b",
+    "wallpaper": "/home/eris/Pictures/wallpapers/wallhaven-d661qo_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#181127",
+        "foreground": "#c5c3c9",
+        "cursor": "#c5c3c9"
+    },
+    "colors": {
+        "color0": "#181127",
+        "color1": "#B99171",
+        "color2": "#343490",
+        "color3": "#265997",
+        "color4": "#64558B",
+        "color5": "#905F92",
+        "color6": "#48B9D7",
+        "color7": "#c5c3c9",
+        "color8": "#666075",
+        "color9": "#B99171",
+        "color10": "#343490",
+        "color11": "#265997",
+        "color12": "#64558B",
+        "color13": "#905F92",
+        "color14": "#48B9D7",
+        "color15": "#c5c3c9"
+    }
+}

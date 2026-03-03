@@ -1,0 +1,28 @@
+{
+    "checksum": "ad165d8b83cd308093414b5c72ccec56",
+    "wallpaper": "/home/eris/Pictures/wallpapers-nsfw/wallhaven-5gyye8_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c111b",
+        "foreground": "#c2c3c6",
+        "cursor": "#c2c3c6"
+    },
+    "colors": {
+        "color0": "#0c111b",
+        "color1": "#ae735c",
+        "color2": "#6ca4c0",
+        "color3": "#b099b3",
+        "color4": "#9eb9c9",
+        "color5": "#dba788",
+        "color6": "#edbeaf",
+        "color7": "#c2c3c6",
+        "color8": "#5b626f",
+        "color9": "#ae735c",
+        "color10": "#6ca4c0",
+        "color11": "#b099b3",
+        "color12": "#9eb9c9",
+        "color13": "#dba788",
+        "color14": "#edbeaf",
+        "color15": "#c2c3c6"
+    }
+}

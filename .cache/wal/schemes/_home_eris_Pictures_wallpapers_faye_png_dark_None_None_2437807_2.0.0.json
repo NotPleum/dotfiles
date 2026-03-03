@@ -1,0 +1,28 @@
+{
+    "checksum": "b75dcd3dad044c13ac0d643b66e74b3c",
+    "wallpaper": "/home/eris/Pictures/wallpapers/faye.png",
+    "alpha": "100",
+    "special": {
+        "background": "#190b19",
+        "foreground": "#c5c2c5",
+        "cursor": "#c5c2c5"
+    },
+    "colors": {
+        "color0": "#190b19",
+        "color1": "#7C817D",
+        "color2": "#C6A150",
+        "color3": "#537388",
+        "color4": "#748A93",
+        "color5": "#A0A6A3",
+        "color6": "#C7AD99",
+        "color7": "#c5c2c5",
+        "color8": "#6e5a6e",
+        "color9": "#7C817D",
+        "color10": "#C6A150",
+        "color11": "#537388",
+        "color12": "#748A93",
+        "color13": "#A0A6A3",
+        "color14": "#C7AD99",
+        "color15": "#c5c2c5"
+    }
+}

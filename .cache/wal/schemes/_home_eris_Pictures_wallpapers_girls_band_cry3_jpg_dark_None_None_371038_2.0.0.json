@@ -1,0 +1,28 @@
+{
+    "checksum": "e25b19d7c1005de7d338aeb042d852d0",
+    "wallpaper": "/home/eris/Pictures/wallpapers/girls_band_cry3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b0b1b",
+        "foreground": "#c6c2c6",
+        "cursor": "#c6c2c6"
+    },
+    "colors": {
+        "color0": "#1b0b1b",
+        "color1": "#BD9968",
+        "color2": "#5C6A8B",
+        "color3": "#AD7492",
+        "color4": "#6F8C9A",
+        "color5": "#9F9F9D",
+        "color6": "#D3AB9D",
+        "color7": "#c6c2c6",
+        "color8": "#6f5a6f",
+        "color9": "#BD9968",
+        "color10": "#5C6A8B",
+        "color11": "#AD7492",
+        "color12": "#6F8C9A",
+        "color13": "#9F9F9D",
+        "color14": "#D3AB9D",
+        "color15": "#c6c2c6"
+    }
+}

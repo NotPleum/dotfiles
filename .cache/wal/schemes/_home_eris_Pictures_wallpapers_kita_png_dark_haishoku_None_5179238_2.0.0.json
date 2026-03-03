@@ -1,0 +1,28 @@
+{
+    "checksum": "063d7bdb14681c8695d04c7ebfbf7f7a",
+    "wallpaper": "/home/eris/Pictures/wallpapers/kita.png",
+    "alpha": "100",
+    "special": {
+        "background": "#090915",
+        "foreground": "#c1c1c4",
+        "cursor": "#c1c1c4"
+    },
+    "colors": {
+        "color0": "#090915",
+        "color1": "#4f5061",
+        "color2": "#5b5d6f",
+        "color3": "#707282",
+        "color4": "#90909d",
+        "color5": "#b09ca7",
+        "color6": "#a7a4aa",
+        "color7": "#c1c1c4",
+        "color8": "#58586c",
+        "color9": "#4f5061",
+        "color10": "#5b5d6f",
+        "color11": "#707282",
+        "color12": "#90909d",
+        "color13": "#b09ca7",
+        "color14": "#a7a4aa",
+        "color15": "#c1c1c4"
+    }
+}

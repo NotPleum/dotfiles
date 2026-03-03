@@ -1,0 +1,21 @@
+set $wallpaper /home/eris/Pictures/wallpapers/totoro.png
+
+set $background #070711
+set $foreground #c1c1c3
+
+set $color0 #070711
+set $color1 #504364
+set $color2 #564769
+set $color3 #77628d
+set $color4 #977bb8
+set $color5 #a384c2
+set $color6 #a985ad
+set $color7 #c1c1c3
+set $color8 #56566a
+set $color9 #504364
+set $color10 #564769
+set $color11 #77628d
+set $color12 #977bb8
+set $color13 #a384c2
+set $color14 #a985ad
+set $color15 #c1c1c3

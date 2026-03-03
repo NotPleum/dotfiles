@@ -1,0 +1,28 @@
+{
+    "checksum": "4ceb5029f62d5a9d33926ba94bbfc7bc",
+    "wallpaper": "/home/eris/Pictures/wallpapers/wallhaven-g7zwed_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#37272e",
+        "foreground": "#cdc9ca",
+        "cursor": "#cdc9ca"
+    },
+    "colors": {
+        "color0": "#37272e",
+        "color1": "#EDABB2",
+        "color2": "#BBC2AA",
+        "color3": "#CEEA96",
+        "color4": "#DBD5A9",
+        "color5": "#E6B3C7",
+        "color6": "#D6D2D4",
+        "color7": "#cdc9ca",
+        "color8": "#836b76",
+        "color9": "#EDABB2",
+        "color10": "#BBC2AA",
+        "color11": "#CEEA96",
+        "color12": "#DBD5A9",
+        "color13": "#E6B3C7",
+        "color14": "#D6D2D4",
+        "color15": "#cdc9ca"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "b27863ec7f2ce3a47062db674b82d594",
+    "wallpaper": "/home/eris/Pictures/wallpapers/apartment.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121e2a",
+        "foreground": "#c3c6c9",
+        "cursor": "#c3c6c9"
+    },
+    "colors": {
+        "color0": "#121e2a",
+        "color1": "#A4584E",
+        "color2": "#AB8C79",
+        "color3": "#597A85",
+        "color4": "#3BA995",
+        "color5": "#4FAD9B",
+        "color6": "#B29885",
+        "color7": "#c3c6c9",
+        "color8": "#616b76",
+        "color9": "#A4584E",
+        "color10": "#AB8C79",
+        "color11": "#597A85",
+        "color12": "#3BA995",
+        "color13": "#4FAD9B",
+        "color14": "#B29885",
+        "color15": "#c3c6c9"
+    }
+}

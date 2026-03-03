@@ -1,0 +1,28 @@
+{
+    "checksum": "8e65eeb3a85f2fd1d17c34fcb717ce48",
+    "wallpaper": "/home/eris/Pictures/wallpapers/Baelz-bed.png",
+    "alpha": "100",
+    "special": {
+        "background": "#191316",
+        "foreground": "#c5c4c4",
+        "cursor": "#c5c4c4"
+    },
+    "colors": {
+        "color0": "#191316",
+        "color1": "#962E2D",
+        "color2": "#8F6E6B",
+        "color3": "#DE5348",
+        "color4": "#918182",
+        "color5": "#AC9698",
+        "color6": "#CCABA4",
+        "color7": "#c5c4c4",
+        "color8": "#715c67",
+        "color9": "#962E2D",
+        "color10": "#8F6E6B",
+        "color11": "#DE5348",
+        "color12": "#918182",
+        "color13": "#AC9698",
+        "color14": "#CCABA4",
+        "color15": "#c5c4c4"
+    }
+}
