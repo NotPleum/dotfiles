@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Gemini
+Comment=Open Gemini in new window
+Exec=firefox --new-window gemini.google.com
+Terminal=false
+Icon=/home/eris/.icons/Gemini.png
+Type=Application
+Categories=WebBrowser;

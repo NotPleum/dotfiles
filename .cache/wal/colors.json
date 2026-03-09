@@ -1,29 +1,29 @@
 {
-    "checksum": "58c71bf0cbfcb6509cf38e0149d92076",
-    "wallpaper": "/home/eris/Pictures/wallpapers/totoro.png",
+    "checksum": "0fa141a541f1e99b349a86732423c933",
+    "wallpaper": "/home/eris/Pictures/wallpapers/Wallpaper1.jpg",
     "alpha": "100",
 
     "special": {
-        "background": "#070711",
-        "foreground": "#c1c1c3",
-        "cursor": "#c1c1c3"
+        "background": "#09170c",
+        "foreground": "#c1c5c2",
+        "cursor": "#c1c5c2"
     },
     "colors": {
-        "color0": "#070711",
-        "color1": "#504364",
-        "color2": "#564769",
-        "color3": "#77628d",
-        "color4": "#977bb8",
-        "color5": "#a384c2",
-        "color6": "#a985ad",
-        "color7": "#c1c1c3",
-        "color8": "#56566a",
-        "color9": "#504364",
-        "color10": "#564769",
-        "color11": "#77628d",
-        "color12": "#977bb8",
-        "color13": "#a384c2",
-        "color14": "#a985ad",
-        "color15": "#c1c1c3"
+        "color0": "#09170c",
+        "color1": "#578B77",
+        "color2": "#C88B73",
+        "color3": "#286C8E",
+        "color4": "#BE6B8A",
+        "color5": "#54ABA9",
+        "color6": "#BFB5AD",
+        "color7": "#c1c5c2",
+        "color8": "#596d5d",
+        "color9": "#578B77",
+        "color10": "#C88B73",
+        "color11": "#286C8E",
+        "color12": "#BE6B8A",
+        "color13": "#54ABA9",
+        "color14": "#BFB5AD",
+        "color15": "#c1c5c2"
     }
 }

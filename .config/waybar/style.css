@@ -22,6 +22,7 @@ window#waybar {
 #battery,
 #clock,
 #bluetooth,
+#custom-app,
 #custom-power {
   /* pill look */
   background: alpha(@color0, 0.35);        /* subtle chip bg using your palette */
@@ -45,6 +46,7 @@ window#waybar {
 #pulseaudio:hover,
 #battery:hover,
 #clock:hover,
+#custom-app:hover,
 #custom-power:hover,
 #tray:hover {
   background: alpha(@color0, 0.50);
@@ -56,6 +58,16 @@ window#waybar {
   border-color: alpha(@color1, 0.35);
 }
 #custom-power:hover {
+  background: alpha(@color1, 0.25);
+  color: @foreground;
+}
+
+/* App button */
+#custom-app {
+  font-weight: 700;
+  border-color: alpha(@color1, 0.35);
+}
+#custom-app:hover {
   background: alpha(@color1, 0.25);
   color: @foreground;
 }
