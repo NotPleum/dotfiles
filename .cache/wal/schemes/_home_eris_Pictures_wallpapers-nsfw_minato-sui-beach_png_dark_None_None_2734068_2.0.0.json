@@ -1,0 +1,28 @@
+{
+    "checksum": "13220effcd85239c684e3ef55c66f385",
+    "wallpaper": "/home/eris/Pictures/wallpapers-nsfw/minato-sui-beach.png",
+    "alpha": "100",
+    "special": {
+        "background": "#27232b",
+        "foreground": "#c9c8ca",
+        "cursor": "#c9c8ca"
+    },
+    "colors": {
+        "color0": "#27232b",
+        "color1": "#ECD1A8",
+        "color2": "#FAC8B6",
+        "color3": "#A09BC0",
+        "color4": "#E59ECB",
+        "color5": "#A8CEF6",
+        "color6": "#F7D3C9",
+        "color7": "#c9c8ca",
+        "color8": "#70677d",
+        "color9": "#ECD1A8",
+        "color10": "#FAC8B6",
+        "color11": "#A09BC0",
+        "color12": "#E59ECB",
+        "color13": "#A8CEF6",
+        "color14": "#F7D3C9",
+        "color15": "#c9c8ca"
+    }
+}

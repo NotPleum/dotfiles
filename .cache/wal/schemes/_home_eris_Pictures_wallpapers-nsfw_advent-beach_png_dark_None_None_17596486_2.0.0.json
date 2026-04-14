@@ -1,0 +1,28 @@
+{
+    "checksum": "7eec768c0e433866c81ca910f79aef51",
+    "wallpaper": "/home/eris/Pictures/wallpapers-nsfw/advent-beach.png",
+    "alpha": "100",
+    "special": {
+        "background": "#2e2732",
+        "foreground": "#cac9cb",
+        "cursor": "#cac9cb"
+    },
+    "colors": {
+        "color0": "#2e2732",
+        "color1": "#D8B1AA",
+        "color2": "#E3C3B9",
+        "color3": "#ABA4DB",
+        "color4": "#CCB3D7",
+        "color5": "#B3D1E9",
+        "color6": "#EED3CF",
+        "color7": "#cac9cb",
+        "color8": "#7a6981",
+        "color9": "#D8B1AA",
+        "color10": "#E3C3B9",
+        "color11": "#ABA4DB",
+        "color12": "#CCB3D7",
+        "color13": "#B3D1E9",
+        "color14": "#EED3CF",
+        "color15": "#cac9cb"
+    }
+}

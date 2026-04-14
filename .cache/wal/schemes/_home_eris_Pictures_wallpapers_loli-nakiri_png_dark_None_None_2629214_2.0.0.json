@@ -1,0 +1,28 @@
+{
+    "checksum": "c8946caf29bc1fd05ca8e2def4197437",
+    "wallpaper": "/home/eris/Pictures/wallpapers/loli-nakiri.png",
+    "alpha": "100",
+    "special": {
+        "background": "#221f24",
+        "foreground": "#c7c7c8",
+        "cursor": "#c7c7c8"
+    },
+    "colors": {
+        "color0": "#221f24",
+        "color1": "#D7A29E",
+        "color2": "#EBB4AF",
+        "color3": "#EDC9B8",
+        "color4": "#B0C1D0",
+        "color5": "#D6D0D8",
+        "color6": "#F1D4CD",
+        "color7": "#c7c7c8",
+        "color8": "#726379",
+        "color9": "#D7A29E",
+        "color10": "#EBB4AF",
+        "color11": "#EDC9B8",
+        "color12": "#B0C1D0",
+        "color13": "#D6D0D8",
+        "color14": "#F1D4CD",
+        "color15": "#c7c7c8"
+    }
+}

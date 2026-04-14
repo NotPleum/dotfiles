@@ -1,5 +1,5 @@
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
+#export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
 
 # Path to your Oh My Zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
@@ -42,7 +42,7 @@ ZSH_THEME="gnzh"
 # DISABLE_AUTO_TITLE="true"
 
 # Uncomment the following line to enable command auto-correction.
-ENABLE_CORRECTION="true"
+#ENABLE_CORRECTION="true"
 
 # Uncomment the following line to display red dots whilst waiting for completion.
 # You can also set it to another string to have that shown instead of the default red dots.
@@ -93,7 +93,7 @@ eval "$(zoxide init zsh)"
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
-export EDITOR='nvim'
+#export EDITOR='nvim'
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8

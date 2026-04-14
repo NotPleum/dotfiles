@@ -1,0 +1,28 @@
+{
+    "checksum": "068094292a2b91f021d5cdc180ba0d1b",
+    "wallpaper": "/home/eris/Pictures/wallpapers-nsfw/shiori2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0c1a",
+        "foreground": "#c2c2c5",
+        "cursor": "#c2c2c5"
+    },
+    "colors": {
+        "color0": "#0b0c1a",
+        "color1": "#E38F76",
+        "color2": "#5F698F",
+        "color3": "#B56F90",
+        "color4": "#BD9EA2",
+        "color5": "#EC9F91",
+        "color6": "#F9D9AC",
+        "color7": "#c2c2c5",
+        "color8": "#5a5c6f",
+        "color9": "#E38F76",
+        "color10": "#5F698F",
+        "color11": "#B56F90",
+        "color12": "#BD9EA2",
+        "color13": "#EC9F91",
+        "color14": "#F9D9AC",
+        "color15": "#c2c2c5"
+    }
+}

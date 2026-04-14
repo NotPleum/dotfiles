@@ -1,0 +1,28 @@
+{
+    "checksum": "aca23cca82e4ecd267cd8454df7fc2b5",
+    "wallpaper": "/home/eris/Pictures/wallpapers/nakano-itsuki2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#361b29",
+        "foreground": "#ccc6c9",
+        "cursor": "#ccc6c9"
+    },
+    "colors": {
+        "color0": "#361b29",
+        "color1": "#5EA4BE",
+        "color2": "#B6A9AF",
+        "color3": "#E9A99F",
+        "color4": "#EFCCB5",
+        "color5": "#A0D6DE",
+        "color6": "#F3D2D0",
+        "color7": "#ccc6c9",
+        "color8": "#7e6773",
+        "color9": "#5EA4BE",
+        "color10": "#B6A9AF",
+        "color11": "#E9A99F",
+        "color12": "#EFCCB5",
+        "color13": "#A0D6DE",
+        "color14": "#F3D2D0",
+        "color15": "#ccc6c9"
+    }
+}

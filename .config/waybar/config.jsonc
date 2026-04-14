@@ -12,7 +12,7 @@
     "clock"
   ],
   "modules-right": [
-    // "mpris",
+    "mpris",
     "tray",
     "network",
     "bluetooth",

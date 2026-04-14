@@ -1,0 +1,28 @@
+{
+    "checksum": "8bfd589b29e34e16cee7f06e38b8e5fb",
+    "wallpaper": "/home/eris/Pictures/wallpapers-nsfw/suisei-chloe.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1b1e2b",
+        "foreground": "#c6c6ca",
+        "cursor": "#c6c6ca"
+    },
+    "colors": {
+        "color0": "#1b1e2b",
+        "color1": "#6C96CD",
+        "color2": "#9D9CA6",
+        "color3": "#DBB2B4",
+        "color4": "#DFB4B5",
+        "color5": "#9AB1D1",
+        "color6": "#BAC9DA",
+        "color7": "#c6c6ca",
+        "color8": "#64687a",
+        "color9": "#6C96CD",
+        "color10": "#9D9CA6",
+        "color11": "#DBB2B4",
+        "color12": "#DFB4B5",
+        "color13": "#9AB1D1",
+        "color14": "#BAC9DA",
+        "color15": "#c6c6ca"
+    }
+}

@@ -1,10 +1,10 @@
 #!/bin/bash
-# nsxiv-based wallpaper picker with random swww transition + Pywal + Waybar reload
+# nsxiv-based wallpaper picker with random awww transition + Pywal + Waybar reload
 
 # define wallpaper folder
 WALL_DIR="$HOME/Pictures/wallpapers"
 
-# random swww transition effects
+# random awww transition effects
 effects=("grow" "wave" "any" "fade")
 random_index=$((RANDOM % ${#effects[@]}))
 
@@ -12,14 +12,14 @@ random_index=$((RANDOM % ${#effects[@]}))
 img="$(nsxiv -tbog 960x720 "$WALL_DIR" | head -n 1)"
 [ -z "$img" ] && exit 0
 
-# ensure swww-daemon is running
-pgrep -x swww-daemonon >/dev/null 2>&1 || {
-  swww-daemon &
+# ensure awww-daemon is running
+pgrep -x awww-daemonon >/dev/null 2>&1 || {
+  awww-daemon &
   sleep 0.3
 }
 
 # set wallpaper with random effect
-swww img -t "${effects[random_index]}" "$img" --transition-duration 0.6 --transition-fps 60
+awww img -t "${effects[random_index]}" "$img" --transition-duration 0.6 --transition-fps 60
 
 # apply Pywal theme
 if [[ "$(basename "$img")" == "girls_band_cry2.png" ]]; then

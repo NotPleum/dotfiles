@@ -1,0 +1,28 @@
+{
+    "checksum": "6b2fcfa798d7b80f4ffc2fe72410af70",
+    "wallpaper": "/home/eris/Pictures/wallpapers/suisei2.png",
+    "alpha": "100",
+    "special": {
+        "background": "#130916",
+        "foreground": "#c4c1c4",
+        "cursor": "#c4c1c4"
+    },
+    "colors": {
+        "color0": "#130916",
+        "color1": "#ED5129",
+        "color2": "#5DC64D",
+        "color3": "#CBB84F",
+        "color4": "#3B4CC6",
+        "color5": "#D93BAD",
+        "color6": "#48B5DC",
+        "color7": "#c4c1c4",
+        "color8": "#67596c",
+        "color9": "#ED5129",
+        "color10": "#5DC64D",
+        "color11": "#CBB84F",
+        "color12": "#3B4CC6",
+        "color13": "#D93BAD",
+        "color14": "#48B5DC",
+        "color15": "#c4c1c4"
+    }
+}
